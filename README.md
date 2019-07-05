@@ -1,4 +1,4 @@
-# Análise de sentimentos completa, com extração de mensagens do twitter
+# Análise de sentimentos completa, em portugês e com extração de mensagens do twitter
 Crie sua base de mensagens positivas e negativas no domínio que quiser.
 Salve em um banco de dados para acumular mais mensagens e aprimorar seu modelo
 
